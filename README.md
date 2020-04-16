@@ -1,0 +1,1 @@
+Projekt witryny poświęconej ciekawostkom z branży gier. :D
