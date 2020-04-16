@@ -1,0 +1,84 @@
+body{
+  background-color: #0D121C;
+  /* #0F0417; */
+}
+.myContainer{
+  background-color: #16172B;
+  /* #271533; */
+  color: #fff;
+  min-height: 2000px;
+}
+
+.myNav{
+  background-color: #16172B;
+  border-bottom: 2px solid #BE284D;
+  /* border-bottom: 2px solid #BE284D; */
+}
+
+/* POST */
+.post{
+  padding-top: 20px;
+  border-bottom: 1px solid #1e3342;
+}
+/* .post:nth-child(even) {
+  background: #1f203a;
+} */
+
+.post-title {
+  background-color: #1E3342;
+  height: 28px;
+}
+
+.published-by{
+  padding: 0;
+}
+
+.published-by p{
+  font-size: 0.8rem;
+}
+.published-by a{
+  font-size: 0.8rem;
+
+
+}
+
+.label {
+  position: relative;
+  top: -8px;
+  left: 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #BE284D;
+  padding: 2px 16px;
+}
+
+.p-mmorpg {background-color: #F7CE38; color: black;} /* MMORPG */
+.p-hack {background-color: #0E0A0F;} /* hack */
+.p-tutorial {background-color: #32A820;} /* tutorial */
+.p-sale {background-color: #2A6BE3;} /* sale */
+.p-giveaway {background-color: #B75F56;} /* Giveaway */
+
+
+
+.post-body{
+  padding: 2px 16px;
+  margin-top: 22px;
+}
+
+.post h2{
+  text-shadow: 0 0 3px #fff;
+
+}
+
+
+.anchor-name{
+  color: #BE284D;
+  text-decoration: none;
+}
+
+/* COLORS */
+
+.colorPink{
+  color: #BE284D;
+}
